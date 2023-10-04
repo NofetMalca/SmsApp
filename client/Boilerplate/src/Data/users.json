@@ -1,0 +1,776 @@
+[
+    {
+        "userName": "MARIA000270",
+        "userId": {
+            "id": "000270",
+            "firstName": "MARIA",
+            "lastName": "PEREZ",
+            "departmentNumber": "D21",
+            "hireDate": "1980-09-29T22:00:00.000+00:00",
+            "job": "CLERK",
+            "educationLevel": 15,
+            "sex": "F",
+            "birthdate": "1953-05-25T21:00:00.000+00:00",
+            "salary": 27380,
+            "bonus": 500,
+            "commission": 2190
+        },
+        "userPassword": "A123"
+    },
+    {
+        "userName": "ETHEL000280",
+        "userId": {
+            "id": "000280",
+            "firstName": "ETHEL",
+            "lastName": "SCHNEIDER",
+            "departmentNumber": "E11",
+            "hireDate": "1967-03-23T22:00:00.000+00:00",
+            "job": "OPERATOR",
+            "educationLevel": 17,
+            "sex": "F",
+            "birthdate": "1936-03-27T22:00:00.000+00:00",
+            "salary": 26250,
+            "bonus": 500,
+            "commission": 2100
+        },
+        "userPassword": "B123"
+    },
+    {
+        "userName": "JOHN000290",
+        "userId": {
+            "id": "000290",
+            "firstName": "JOHN",
+            "lastName": "PARKER",
+            "departmentNumber": "E11",
+            "hireDate": "1980-05-29T22:00:00.000+00:00",
+            "job": "OPERATOR",
+            "educationLevel": 12,
+            "sex": "M",
+            "birthdate": "1946-07-08T21:00:00.000+00:00",
+            "salary": 15340,
+            "bonus": 300,
+            "commission": 1227
+        },
+        "userPassword": "C123"
+    },
+    {
+        "userName": "PHILIP000300",
+        "userId": {
+            "id": "000300",
+            "firstName": "PHILIP",
+            "lastName": "SMITH",
+            "departmentNumber": "E11",
+            "hireDate": "1972-06-18T22:00:00.000+00:00",
+            "job": "OPERATOR",
+            "educationLevel": 14,
+            "sex": "M",
+            "birthdate": "1936-10-26T22:00:00.000+00:00",
+            "salary": 17750,
+            "bonus": 400,
+            "commission": 1420
+        },
+        "userPassword": "D123"
+    },
+    {
+        "userName": "MAUDE000310",
+        "userId": {
+            "id": "000310",
+            "firstName": "MAUDE",
+            "lastName": "SETRIGHT",
+            "departmentNumber": "E11",
+            "hireDate": "1964-09-11T22:00:00.000+00:00",
+            "job": "OPERATOR",
+            "educationLevel": 12,
+            "sex": "F",
+            "birthdate": "1931-04-20T22:00:00.000+00:00",
+            "salary": 15900,
+            "bonus": 300,
+            "commission": 1272
+        },
+        "userPassword": "E123"
+    },
+    {
+        "userName": "RAMLAL000320",
+        "userId": {
+            "id": "000320",
+            "firstName": "RAMLAL",
+            "lastName": "MEHTA",
+            "departmentNumber": "E21",
+            "hireDate": "1965-07-06T22:00:00.000+00:00",
+            "job": "FIELDREP",
+            "educationLevel": 16,
+            "sex": "M",
+            "birthdate": "1932-08-10T22:00:00.000+00:00",
+            "salary": 19950,
+            "bonus": 400,
+            "commission": 1596
+        },
+        "userPassword": "F123"
+    },
+    {
+        "userName": "WING000330",
+        "userId": {
+            "id": "000330",
+            "firstName": "WING",
+            "lastName": "LEE",
+            "departmentNumber": "E21",
+            "hireDate": "1976-02-22T22:00:00.000+00:00",
+            "job": "FIELDREP",
+            "educationLevel": 14,
+            "sex": "M",
+            "birthdate": "1941-07-17T21:00:00.000+00:00",
+            "salary": 25370,
+            "bonus": 500,
+            "commission": 2030
+        },
+        "userPassword": "G123"
+    },
+    {
+        "userName": "JASON000340",
+        "userId": {
+            "id": "000340",
+            "firstName": "JASON",
+            "lastName": "GOUNOT",
+            "departmentNumber": "E21",
+            "hireDate": "1947-05-04T22:00:00.000+00:00",
+            "job": "FIELDREP",
+            "educationLevel": 16,
+            "sex": "M",
+            "birthdate": "1926-05-16T22:00:00.000+00:00",
+            "salary": 23840,
+            "bonus": 500,
+            "commission": 1907
+        },
+        "userPassword": "H123"
+    },
+    {
+        "userName": "DIAN200010",
+        "userId": {
+            "id": "200010",
+            "firstName": "DIAN",
+            "lastName": "HEMMINGER",
+            "departmentNumber": "A00",
+            "hireDate": "1964-12-31T22:00:00.000+00:00",
+            "job": "SALESREP",
+            "educationLevel": 18,
+            "sex": "F",
+            "birthdate": "1933-08-13T22:00:00.000+00:00",
+            "salary": 46500,
+            "bonus": 1000,
+            "commission": 4220
+        },
+        "userPassword": "I123"
+    },
+    {
+        "userName": "GREG200120",
+        "userId": {
+            "id": "200120",
+            "firstName": "GREG",
+            "lastName": "ORLANDO",
+            "departmentNumber": "A00",
+            "hireDate": "1972-05-04T22:00:00.000+00:00",
+            "job": "CLERK",
+            "educationLevel": 14,
+            "sex": "M",
+            "birthdate": "1942-10-17T21:00:00.000+00:00",
+            "salary": 29250,
+            "bonus": 600,
+            "commission": 2340
+        },
+        "userPassword": "J123"
+    },
+    {
+        "userName": "KIM200140",
+        "userId": {
+            "id": "200140",
+            "firstName": "KIM",
+            "lastName": "NATZ",
+            "departmentNumber": "C01",
+            "hireDate": "1976-12-14T22:00:00.000+00:00",
+            "job": "ANALYST",
+            "educationLevel": 18,
+            "sex": "F",
+            "birthdate": "1946-01-18T22:00:00.000+00:00",
+            "salary": 28420,
+            "bonus": 600,
+            "commission": 2274
+        },
+        "userPassword": "K123"
+    },
+    {
+        "userName": "KIYOSHI200170",
+        "userId": {
+            "id": "200170",
+            "firstName": "KIYOSHI",
+            "lastName": "YAMAMOTO",
+            "departmentNumber": "D11",
+            "hireDate": "1978-09-14T22:00:00.000+00:00",
+            "job": "DESIGNER",
+            "educationLevel": 16,
+            "sex": "M",
+            "birthdate": "1951-01-04T22:00:00.000+00:00",
+            "salary": 24680,
+            "bonus": 500,
+            "commission": 1974
+        },
+        "userPassword": "L123"
+    },
+    {
+        "userName": "REBA200220",
+        "userId": {
+            "id": "200220",
+            "firstName": "REBA",
+            "lastName": "JOHN",
+            "departmentNumber": "D11",
+            "hireDate": "1968-08-28T22:00:00.000+00:00",
+            "job": "DESIGNER",
+            "educationLevel": 18,
+            "sex": "F",
+            "birthdate": "1948-03-18T22:00:00.000+00:00",
+            "salary": 29840,
+            "bonus": 600,
+            "commission": 2387
+        },
+        "userPassword": "M123"
+    },
+    {
+        "userName": "ROBERT200240",
+        "userId": {
+            "id": "200240",
+            "firstName": "ROBERT",
+            "lastName": "MONTEVERDE",
+            "departmentNumber": "D21",
+            "hireDate": "1979-12-04T22:00:00.000+00:00",
+            "job": "CLERK",
+            "educationLevel": 17,
+            "sex": "M",
+            "birthdate": "1954-03-30T22:00:00.000+00:00",
+            "salary": 28760,
+            "bonus": 600,
+            "commission": 2301
+        },
+        "userPassword": "N123"
+    },
+    {
+        "userName": "EILEEN200280",
+        "userId": {
+            "id": "200280",
+            "firstName": "EILEEN",
+            "lastName": "SCHWARTZ",
+            "departmentNumber": "E11",
+            "hireDate": "1967-03-23T22:00:00.000+00:00",
+            "job": "OPERATOR",
+            "educationLevel": 17,
+            "sex": "F",
+            "birthdate": "1936-03-27T22:00:00.000+00:00",
+            "salary": 26250,
+            "bonus": 500,
+            "commission": 2100
+        },
+        "userPassword": "O123"
+    },
+    {
+        "userName": "MICHELLE200310",
+        "userId": {
+            "id": "200310",
+            "firstName": "MICHELLE",
+            "lastName": "SPRINGER",
+            "departmentNumber": "E11",
+            "hireDate": "1964-09-11T22:00:00.000+00:00",
+            "job": "OPERATOR",
+            "educationLevel": 12,
+            "sex": "F",
+            "birthdate": "1931-04-20T22:00:00.000+00:00",
+            "salary": 15900,
+            "bonus": 300,
+            "commission": 1272
+        },
+        "userPassword": "P123"
+    },
+    {
+        "userName": "HELENA200330",
+        "userId": {
+            "id": "200330",
+            "firstName": "HELENA",
+            "lastName": "WONG",
+            "departmentNumber": "E21",
+            "hireDate": "1976-02-22T22:00:00.000+00:00",
+            "job": "FIELDREP",
+            "educationLevel": 14,
+            "sex": "F",
+            "birthdate": "1941-07-17T21:00:00.000+00:00",
+            "salary": 25370,
+            "bonus": 500,
+            "commission": 2030
+        },
+        "userPassword": "Q123"
+    },
+    {
+        "userName": "ROY200340",
+        "userId": {
+            "id": "200340",
+            "firstName": "ROY",
+            "lastName": "ALONZO",
+            "departmentNumber": "E21",
+            "hireDate": "1947-05-04T22:00:00.000+00:00",
+            "job": "FIELDREP",
+            "educationLevel": 16,
+            "sex": "M",
+            "birthdate": "1926-05-16T22:00:00.000+00:00",
+            "salary": 23840,
+            "bonus": 500,
+            "commission": 1907
+        },
+        "userPassword": "R123"
+    },
+    {
+        "userName": "UDI200350",
+        "userId": {
+            "id": "200350",
+            "firstName": "UDI",
+            "lastName": "ILAN",
+            "departmentNumber": "A00",
+            "hireDate": "2005-03-28T22:00:00.000+00:00",
+            "job": "MANAGER",
+            "educationLevel": 16,
+            "sex": "M",
+            "birthdate": "1984-06-06T21:00:00.000+00:00",
+            "salary": 35480,
+            "bonus": 600,
+            "commission": 2542
+        },
+        "userPassword": "S123"
+    },
+    {
+        "userName": "CHRISTINE000010",
+        "userId": {
+            "id": "000010",
+            "firstName": "CHRISTINE",
+            "lastName": "HAAS",
+            "departmentNumber": "A00",
+            "hireDate": "1964-12-31T22:00:00.000+00:00",
+            "job": "PRES",
+            "educationLevel": 18,
+            "sex": "F",
+            "birthdate": "1933-08-13T22:00:00.000+00:00",
+            "salary": 52750,
+            "bonus": 1000,
+            "commission": 4220
+        },
+        "userPassword": "T123"
+    },
+    {
+        "userName": "MICHAEL000020",
+        "userId": {
+            "id": "000020",
+            "firstName": "MICHAEL",
+            "lastName": "THOMPSON",
+            "departmentNumber": "B01",
+            "hireDate": "1973-10-09T22:00:00.000+00:00",
+            "job": "MANAGER",
+            "educationLevel": 18,
+            "sex": "M",
+            "birthdate": "1948-02-01T22:00:00.000+00:00",
+            "salary": 41250,
+            "bonus": 800,
+            "commission": 3300
+        },
+        "userPassword": "U123"
+    },
+    {
+        "userName": "SALLY000030",
+        "userId": {
+            "id": "000030",
+            "firstName": "SALLY",
+            "lastName": "KWAN",
+            "departmentNumber": "C01",
+            "hireDate": "1975-04-04T22:00:00.000+00:00",
+            "job": "MANAGER",
+            "educationLevel": 20,
+            "sex": "F",
+            "birthdate": "1941-05-10T21:00:00.000+00:00",
+            "salary": 38250,
+            "bonus": 800,
+            "commission": 3060
+        },
+        "userPassword": "V123"
+    },
+    {
+        "userName": "JOHN000050",
+        "userId": {
+            "id": "000050",
+            "firstName": "JOHN",
+            "lastName": "GEYER",
+            "departmentNumber": "E01",
+            "hireDate": "1949-08-16T21:00:00.000+00:00",
+            "job": "MANAGER",
+            "educationLevel": 16,
+            "sex": "M",
+            "birthdate": "1925-09-14T22:00:00.000+00:00",
+            "salary": 40175,
+            "bonus": 800,
+            "commission": 3214
+        },
+        "userPassword": "W123"
+    },
+    {
+        "userName": "IRVING000060",
+        "userId": {
+            "id": "000060",
+            "firstName": "IRVING",
+            "lastName": "STERN",
+            "departmentNumber": "D11",
+            "hireDate": "1973-09-13T22:00:00.000+00:00",
+            "job": "MANAGER",
+            "educationLevel": 16,
+            "sex": "M",
+            "birthdate": "1945-07-06T21:00:00.000+00:00",
+            "salary": 32250,
+            "bonus": 600,
+            "commission": 2580
+        },
+        "userPassword": "X123"
+    },
+    {
+        "userName": "EVA000070",
+        "userId": {
+            "id": "000070",
+            "firstName": "EVA",
+            "lastName": "PULASKI",
+            "departmentNumber": "D21",
+            "hireDate": "1980-09-29T22:00:00.000+00:00",
+            "job": "MANAGER",
+            "educationLevel": 16,
+            "sex": "F",
+            "birthdate": "1953-05-25T21:00:00.000+00:00",
+            "salary": 36170,
+            "bonus": 700,
+            "commission": 2893
+        },
+        "userPassword": "Y123"
+    },
+    {
+        "userName": "EILEEN000090",
+        "userId": {
+            "id": "000090",
+            "firstName": "EILEEN",
+            "lastName": "HENDERSON",
+            "departmentNumber": "E11",
+            "hireDate": "1970-08-14T22:00:00.000+00:00",
+            "job": "MANAGER",
+            "educationLevel": 16,
+            "sex": "F",
+            "birthdate": "1941-05-14T21:00:00.000+00:00",
+            "salary": 29750,
+            "bonus": 600,
+            "commission": 2380
+        },
+        "userPassword": "Z123"
+    },
+    {
+        "userName": "THEODORE000100",
+        "userId": {
+            "id": "000100",
+            "firstName": "THEODORE",
+            "lastName": "SPENSER",
+            "departmentNumber": "E21",
+            "hireDate": "1980-06-18T22:00:00.000+00:00",
+            "job": "MANAGER",
+            "educationLevel": 14,
+            "sex": "M",
+            "birthdate": "1956-12-17T22:00:00.000+00:00",
+            "salary": 26150,
+            "bonus": 500,
+            "commission": 2092
+        },
+        "userPassword": "A456"
+    },
+    {
+        "userName": "VINCENZO000110",
+        "userId": {
+            "id": "000110",
+            "firstName": "VINCENZO",
+            "lastName": "LUCCHESI",
+            "departmentNumber": "A00",
+            "hireDate": "1958-05-15T22:00:00.000+00:00",
+            "job": "SALESREP",
+            "educationLevel": 19,
+            "sex": "M",
+            "birthdate": "1929-11-04T22:00:00.000+00:00",
+            "salary": 46500,
+            "bonus": 900,
+            "commission": 3720
+        },
+        "userPassword": "B456"
+    },
+    {
+        "userName": "SEAN000120",
+        "userId": {
+            "id": "000120",
+            "firstName": "SEAN",
+            "lastName": "O'CONNELL",
+            "departmentNumber": "A00",
+            "hireDate": "1963-12-04T22:00:00.000+00:00",
+            "job": "CLERK",
+            "educationLevel": 14,
+            "sex": "M",
+            "birthdate": "1942-10-17T21:00:00.000+00:00",
+            "salary": 29250,
+            "bonus": 600,
+            "commission": 2340
+        },
+        "userPassword": "C456"
+    },
+    {
+        "userName": "DOLORES000130",
+        "userId": {
+            "id": "000130",
+            "firstName": "DOLORES",
+            "lastName": "QUINTANA",
+            "departmentNumber": "C01",
+            "hireDate": "1971-07-27T22:00:00.000+00:00",
+            "job": "ANALYST",
+            "educationLevel": 16,
+            "sex": "F",
+            "birthdate": "1925-09-14T22:00:00.000+00:00",
+            "salary": 23800,
+            "bonus": 500,
+            "commission": 1904
+        },
+        "userPassword": "D456"
+    },
+    {
+        "userName": "HEATHER000140",
+        "userId": {
+            "id": "000140",
+            "firstName": "HEATHER",
+            "lastName": "NICHOLLS",
+            "departmentNumber": "C01",
+            "hireDate": "1976-12-14T22:00:00.000+00:00",
+            "job": "ANALYST",
+            "educationLevel": 18,
+            "sex": "F",
+            "birthdate": "1946-01-18T22:00:00.000+00:00",
+            "salary": 28420,
+            "bonus": 600,
+            "commission": 2274
+        },
+        "userPassword": "E456"
+    },
+    {
+        "userName": "BRUCE000150",
+        "userId": {
+            "id": "000150",
+            "firstName": "BRUCE",
+            "lastName": "ADAMSON",
+            "departmentNumber": "D11",
+            "hireDate": "1972-02-11T22:00:00.000+00:00",
+            "job": "DESIGNER",
+            "educationLevel": 16,
+            "sex": "M",
+            "birthdate": "1947-05-16T22:00:00.000+00:00",
+            "salary": 25280,
+            "bonus": 500,
+            "commission": 2022
+        },
+        "userPassword": "F456"
+    },
+    {
+        "userName": "ELIZABETH000160",
+        "userId": {
+            "id": "000160",
+            "firstName": "ELIZABETH",
+            "lastName": "PIANKA",
+            "departmentNumber": "D11",
+            "hireDate": "1977-10-10T22:00:00.000+00:00",
+            "job": "DESIGNER",
+            "educationLevel": 17,
+            "sex": "F",
+            "birthdate": "1955-04-11T22:00:00.000+00:00",
+            "salary": 22250,
+            "bonus": 400,
+            "commission": 1780
+        },
+        "userPassword": "G456"
+    },
+    {
+        "userName": "MASATOSHI000170",
+        "userId": {
+            "id": "000170",
+            "firstName": "MASATOSHI",
+            "lastName": "YOSHIMURA",
+            "departmentNumber": "D11",
+            "hireDate": "1978-09-14T22:00:00.000+00:00",
+            "job": "DESIGNER",
+            "educationLevel": 16,
+            "sex": "M",
+            "birthdate": "1951-01-04T22:00:00.000+00:00",
+            "salary": 24680,
+            "bonus": 500,
+            "commission": 1974
+        },
+        "userPassword": "H456"
+    },
+    {
+        "userName": "MARILYN000180",
+        "userId": {
+            "id": "000180",
+            "firstName": "MARILYN",
+            "lastName": "SCOUTTEN",
+            "departmentNumber": "D11",
+            "hireDate": "1973-07-06T22:00:00.000+00:00",
+            "job": "DESIGNER",
+            "educationLevel": 17,
+            "sex": "F",
+            "birthdate": "1949-02-20T22:00:00.000+00:00",
+            "salary": 21340,
+            "bonus": 500,
+            "commission": 1707
+        },
+        "userPassword": "I456"
+    },
+    {
+        "userName": "JAMES000190",
+        "userId": {
+            "id": "000190",
+            "firstName": "JAMES",
+            "lastName": "WALKER",
+            "departmentNumber": "D11",
+            "hireDate": "1974-07-25T21:00:00.000+00:00",
+            "job": "DESIGNER",
+            "educationLevel": 16,
+            "sex": "M",
+            "birthdate": "1952-06-24T21:00:00.000+00:00",
+            "salary": 20450,
+            "bonus": 400,
+            "commission": 1636
+        },
+        "userPassword": "J456"
+    },
+    {
+        "userName": "DAVID000200",
+        "userId": {
+            "id": "000200",
+            "firstName": "DAVID",
+            "lastName": "BROWN",
+            "departmentNumber": "D11",
+            "hireDate": "1966-03-02T22:00:00.000+00:00",
+            "job": "DESIGNER",
+            "educationLevel": 16,
+            "sex": "M",
+            "birthdate": "1941-05-28T21:00:00.000+00:00",
+            "salary": 27740,
+            "bonus": 600,
+            "commission": 2217
+        },
+        "userPassword": "K456"
+    },
+    {
+        "userName": "WILLIAM000210",
+        "userId": {
+            "id": "000210",
+            "firstName": "WILLIAM",
+            "lastName": "JONES",
+            "departmentNumber": "D11",
+            "hireDate": "1979-04-10T22:00:00.000+00:00",
+            "job": "DESIGNER",
+            "educationLevel": 17,
+            "sex": "M",
+            "birthdate": "1953-02-22T22:00:00.000+00:00",
+            "salary": 18270,
+            "bonus": 400,
+            "commission": 1462
+        },
+        "userPassword": "L456"
+    },
+    {
+        "userName": "JENNIFER000220",
+        "userId": {
+            "id": "000220",
+            "firstName": "JENNIFER",
+            "lastName": "LUTZ",
+            "departmentNumber": "D11",
+            "hireDate": "1968-08-28T22:00:00.000+00:00",
+            "job": "DESIGNER",
+            "educationLevel": 18,
+            "sex": "F",
+            "birthdate": "1948-03-18T22:00:00.000+00:00",
+            "salary": 29840,
+            "bonus": 600,
+            "commission": 2387
+        },
+        "userPassword": "M456"
+    },
+    {
+        "userName": "JAMES000230",
+        "userId": {
+            "id": "000230",
+            "firstName": "JAMES",
+            "lastName": "JEFFERSON",
+            "departmentNumber": "D21",
+            "hireDate": "1966-11-20T22:00:00.000+00:00",
+            "job": "CLERK",
+            "educationLevel": 14,
+            "sex": "M",
+            "birthdate": "1935-05-29T22:00:00.000+00:00",
+            "salary": 22180,
+            "bonus": 400,
+            "commission": 1774
+        },
+        "userPassword": "N456"
+    },
+    {
+        "userName": "SALVATORE000240",
+        "userId": {
+            "id": "000240",
+            "firstName": "SALVATORE",
+            "lastName": "MARINO",
+            "departmentNumber": "D21",
+            "hireDate": "1979-12-04T22:00:00.000+00:00",
+            "job": "CLERK",
+            "educationLevel": 17,
+            "sex": "M",
+            "birthdate": "1954-03-30T22:00:00.000+00:00",
+            "salary": 28760,
+            "bonus": 600,
+            "commission": 2301
+        },
+        "userPassword": "O456"
+    },
+    {
+        "userName": "DANIEL000250",
+        "userId": {
+            "id": "000250",
+            "firstName": "DANIEL",
+            "lastName": "SMITH",
+            "departmentNumber": "D21",
+            "hireDate": "1969-10-29T22:00:00.000+00:00",
+            "job": "CLERK",
+            "educationLevel": 15,
+            "sex": "M",
+            "birthdate": "1939-11-11T22:00:00.000+00:00",
+            "salary": 19180,
+            "bonus": 400,
+            "commission": 1534
+        },
+        "userPassword": "P456"
+    },
+    {
+        "userName": "SYBIL000260",
+        "userId": {
+            "id": "000260",
+            "firstName": "SYBIL",
+            "lastName": "JOHNSON",
+            "departmentNumber": "D21",
+            "hireDate": "1975-09-10T22:00:00.000+00:00",
+            "job": "CLERK",
+            "educationLevel": 16,
+            "sex": "F",
+            "birthdate": "1936-10-04T22:00:00.000+00:00",
+            "salary": 17250,
+            "bonus": 300,
+            "commission": 1380
+        },
+        "userPassword": "Q456"
+    }
+]
